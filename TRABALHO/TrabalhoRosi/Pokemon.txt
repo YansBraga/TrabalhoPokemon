@@ -1,0 +1,18 @@
+Abra;25;Kadabra
+Aerodactyl;0;Não evolui
+Arbok;0;Não evolui
+Arcanine;0;Não evolui
+Articuno;0;Não evolui
+Bellsprout;25;Weepinbell
+Bulbasaur;25;Ivysaur
+Caterpie;12;Metapod
+Chansey;0;Não evolui
+Charmander;25;Charmeleon
+Charmeleon;100;Charizard
+Clefable;0;Não evolui
+Clefairy;50;Clefable
+Cloyster;0;Não evolui
+Cubone;50;Marowak
+Dewgong;0;Não evolui
+Diglett;50;Dugtrio
+Ditto;0;Não evolui
